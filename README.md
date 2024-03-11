@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/kybeka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kybeka/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **kybeka/kybeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
