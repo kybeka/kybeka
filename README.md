@@ -2,17 +2,8 @@
 
 <center>
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/overview.svg#gh-dark-mode-only">
-</center>
-
-<center>
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/overview.svg#gh-light-mode-only">
-</center>
-
-<center>
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-dark-mode-only">
-</center>
-
-<center>
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-light-mode-only">
 </center>
 
