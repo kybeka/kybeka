@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<div style="display: flex; justify-content: center;">
+My name is Kyla. 
+
+<div align="center">
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/overview.svg#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/overview.svg#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-dark-mode-only">
