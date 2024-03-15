@@ -4,7 +4,7 @@
 
 my name is kyla (she/her), and i am currently a BSc student @ [USI](https://www.usi.ch/en). i'm currently writing my thesis in smalltalk.
 
-in my free time i love to pick up hobbies and then...drop them. i also love to cook, and sometimes i'll travel and take some film along :film_strip: :camera_flash:. 
+in my free time i love to pick up hobbies and then...drop them. i also love to cook, and sometimes i'll travel and take some film along :camera_flash:. 
 
 <!-- ## just some of the things i've worked with:
 
