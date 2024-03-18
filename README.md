@@ -2,7 +2,7 @@
 
 ## hello :wave:
 
-my name is kyla (she/her), and i am currently a BSc student @ [USI](https://www.usi.ch/en). i'm currently writing my thesis in smalltalk.
+my name is kyla, and i am currently a student @ [USI](https://www.usi.ch/en). i'm currently writing my BSc thesis in smalltalk.
 
 in my free time i love to pick up hobbies and then...drop them. i also love to cook, and when i travel i always take some film along :camera_flash:. 
 
