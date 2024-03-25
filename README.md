@@ -21,6 +21,8 @@ in my free time i love to pick up hobbies and then...drop them. i also love to c
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-light-mode-only">
 </div>
 
+![](https://komarev.com/ghpvc/?username=kybeka&color=green)
+
 <!-- ### my page :point_right: [kybeka.github.io](https://www.kybeka.github.io) -->
 
 <!--
