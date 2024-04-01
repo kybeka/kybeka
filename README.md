@@ -20,11 +20,17 @@ in my free time i love to pick up hobbies and then...drop them. i also love to c
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/kybeka/kybeka-stats/master/generated/languages.svg#gh-light-mode-only">
 </div>
+<br>
 
-<div align="center">
-    ![](https://anlucas.neocities.org/rainbow_ball.gif)
-    ![](https://komarev.com/ghpvc/?username=kybeka)
+<div align="left">
+    <img src="https://anlucas.neocities.org/aoltos_a.gif">
+    <img src="https://anlucas.neocities.org/got_html.gif">
 </div>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=kybeka"> -->
+
+<!--     ![](https://anlucas.neocities.org/rainbow_ball.gif)
+    ![](https://komarev.com/ghpvc/?username=kybeka) -->
 
 
 <!-- ### my page :point_right: [kybeka.github.io](https://www.kybeka.github.io) -->
