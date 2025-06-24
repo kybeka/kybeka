@@ -3,7 +3,7 @@
 my name is kyla, and i am currently a masters student @ [USI](https://www.usi.ch/en). in my free time i love to pick up new hobbies. i also love to cook, and when i travel i always take some film along :camera_flash:. 
 
 <!-- Will someday create my own eighty eight by thirty one... -->
-<div align="left">
+<div align="right">
     <img src="https://anlucas.neocities.org/aoltos_a.gif">
     <img src="https://anlucas.neocities.org/got_html.gif">
     <img src="http://www.hoary.org/now/oz/rude.gif">
