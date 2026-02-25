@@ -23,6 +23,8 @@ my name is kyla, and i am currently a masters student @ [USI](https://www.usi.ch
 <br>
 <br>
 
+i’m gradually reshaping my repositories to be more structured and documented so if something is incomplete, it is probably in progress.
+
 
 
 <!-- CRINGE -->
