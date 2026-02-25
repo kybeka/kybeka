@@ -3,13 +3,13 @@
 my name is kyla, and i am currently a masters student @ [USI](https://www.usi.ch/en). in my free time i love to pick up new hobbies. i also love to cook, and when i travel i always take some film along :camera_flash:. 
 
 <!-- Will someday create my own eighty eight by thirty one... -->
-<div align="right">
+<!-- <div align="right">
     <img src="https://anlucas.neocities.org/aoltos_a.gif">
     <img src="https://anlucas.neocities.org/got_html.gif">
     <img src="http://www.hoary.org/now/oz/rude.gif">
     <img src="https://owlman.neocities.org/OwlMan/Banners/upallnight_anibanner.gif">
     <img src="https://neonaut.neocities.org/images/buttons/neocitizens/kirbykevinson_2.png">
-</div>
+</div> -->
 
 ## here are some stats:
 
